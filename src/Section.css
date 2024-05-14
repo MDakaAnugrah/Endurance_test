@@ -1,0 +1,8 @@
+.container-app{
+    text-align: center;
+}
+
+.container-logo{
+    height: 40vh;
+    pointer-events: none;
+}
